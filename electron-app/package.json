@@ -1,0 +1,19 @@
+{
+  "name": "Cryptonav",
+  "version": "0.3.1",
+  "description": "Browser for Cryptocurrency Enthusiasts",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dyego Vasconcelos",
+  "license": "MIT",
+  "dependencies": {
+    "electron-navigation": "^1.5.3"
+  },
+  "devDependencies": {
+    "electron": "^1.7.10",
+    "electron-installer-dmg": "^0.2.1",
+    "electron-packager": "^8.7.2"
+  }
+}
