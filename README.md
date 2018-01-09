@@ -1,3 +1,4 @@
+![](https://github.com/dyegovasc/cryptonav/blob/master/electron-app/assets/icons/png/128x128.png?raw=true)
 # Cryptonav
 ## Web Browser for Cryptocurrency Enthusiasts.
 [Download for Mac](https://www.amazon.com/clouddrive/share/RlKNvUwyF7pNvFYJo9pnXFYKrTTCANQQSzimw82A9Dx) | [Download for Windows](https://www.amazon.com/clouddrive/share/xjMxgPxfsI6hvoUCUAJ5sxdtDXgfuRQUmyPnBUHlHp7)
